@@ -206,10 +206,6 @@ Screenshots of the Azure resources, pipeline execution, Databricks notebooks, da
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c308f305-656e-4ae4-b90d-ee48149c53ab" />
 
-### Power BI
-
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4485065e-0a62-43e4-8cfd-70fc13ec67d5" />
-
 ---
 
 ## 🔑 Key Data Engineering Concepts Demonstrated
